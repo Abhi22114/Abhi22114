@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..coding .
 - 🌱 I’m currently learning .in Lovley prophessional university ..
 - 💞️ I’m looking to collaborate on web devlopment...
--
+
 
 <!---
 Abhi22114/Abhi22114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
